@@ -1,0 +1,10 @@
+{
+  "name": "with-timeout",
+  "version": "0.0.0",
+  "description": "Wrap an async function with timeout",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Karl Böhlmark <karl.bohlmark@gmail.com>",
+  "repo": "https://github.com/karlbohlmark/with-timeout.git",
+  "license": "ISC"
+}
